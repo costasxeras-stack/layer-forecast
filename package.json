@@ -1,0 +1,10 @@
+{
+  "name": "layer-forecast",
+  "version": "0.1.0",
+  "description": "The forecast for when you are actually outside, turned into layers. It learns whether you run cold or warm from one tap a day.",
+  "private": true,
+  "scripts": {
+    "serve": "python3 -m http.server 8000"
+  },
+  "license": "MIT"
+}
