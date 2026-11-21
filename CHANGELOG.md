@@ -2,6 +2,11 @@
 
 All notable changes to this project. Versions follow [docs/versioning.md](docs/versioning.md).
 
+## [0.1.1] - 2026-11-21
+
+### Fixed
+- Clothing advice now uses the same rounded "feels like" temperature shown on the card. Before, a card could say 0°C and suggest a winter coat because the unrounded value was just below zero.
+
 ## [0.1.0] - 2026-11-21
 
 First release as a full app. It grew out of the small "What to wear" tool on kostasxeras.com.

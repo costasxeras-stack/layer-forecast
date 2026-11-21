@@ -2,7 +2,7 @@
 
 **The forecast for when you are actually outside, turned into layers. It learns whether you run cold or warm from one tap a day.**
 
-**Current version:** 0.1.0
+**Current version:** 0.1.1
 
 Live app: https://kostasxeras.com/layer-forecast/
 
