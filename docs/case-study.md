@@ -62,4 +62,4 @@ There is no usage data yet, so there are no findings. These are hypotheses to te
 
 ## My role
 
-I defined the problem, the users, the features and the decisions, and tested every flow on desktop and phone widths. Claude (Anthropic) wrote the code with me.
+I defined the problem, the users, the features and the decisions, and tested every flow on desktop and phone widths.

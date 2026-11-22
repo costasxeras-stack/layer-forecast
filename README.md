@@ -54,9 +54,9 @@ No usage data yet. These are the measures I would track, with targets to set aft
 2. A morning notification with the headline
 3. Children's profiles with their own comfort setting
 
-## How it was built
+## My role
 
-I defined the problem, the users, the features and the decisions. Claude (Anthropic) was my engineering partner for the code. The idea started from a small example in Ziplines' list of vibe coding projects, which I turned into a full app with my own product choices.
+I defined the problem, the users, the features and the decisions. The idea started from a small example in Ziplines' list of project ideas, which I turned into a full app with my own product choices.
 
 Weather data comes from [Open-Meteo](https://open-meteo.com/) (CC BY 4.0). The screenshots were taken with a test forecast, not live weather.
 
